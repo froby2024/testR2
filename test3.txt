@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 ciao
 buonpomeriggio
 
+=======
+ciao mondo !!!
+>>>>>>> master2
