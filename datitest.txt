@@ -3,6 +3,7 @@ dato1: 135
 dato2: 53,8
 dato3: 7
 <<<<<<< HEAD
+<<<<<<< HEAD
 dato4: 53,8
 dato5: 7
 =======
@@ -11,3 +12,6 @@ dato5: 3
 dato6: 7
 dato7: 4,4
 >>>>>>> master2
+=======
+dato4: 10
+>>>>>>> master
